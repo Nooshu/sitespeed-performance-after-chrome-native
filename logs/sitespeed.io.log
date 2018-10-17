@@ -1,0 +1,88 @@
+[2018-10-17 13:10:23] INFO: [sitespeedio] Versions OS: linux 4.9.93-linuxkit-aufs nodejs: v8.12.0 sitespeed.io: 7.5.0 browsertime: 3.7.1 coach: 2.3.0
+[2018-10-17 13:10:23] INFO: [sitespeedio.plugin.browsertime] Starting chrome for analysing https://www.gov.uk 5 time(s)
+[2018-10-17 13:10:23] INFO: [browsertime] Testing url https://www.gov.uk iteration 1
+[2018-10-17 13:10:34] INFO: [browsertime] BackEndTime: 122 DomInteractiveTime: 501 DomContentLoadedTime: 501 FirstPaint: 402 PageLoadTime: 699
+[2018-10-17 13:10:34] INFO: [browsertime] VisualMetrics FirstVisualChange: 400 SpeedIndex: 425 PerceptualSpeedIndex: 450 LastVisualChange: 500
+[2018-10-17 13:10:34] INFO: [browsertime] Testing url https://www.gov.uk iteration 2
+[2018-10-17 13:10:42] INFO: [browsertime] BackEndTime: 95 DomInteractiveTime: 424 DomContentLoadedTime: 424 FirstPaint: 340 PageLoadTime: 581
+[2018-10-17 13:10:42] INFO: [browsertime] VisualMetrics FirstVisualChange: 333 SpeedIndex: 353 PerceptualSpeedIndex: 369 LastVisualChange: 500
+[2018-10-17 13:10:42] INFO: [browsertime] Testing url https://www.gov.uk iteration 3
+[2018-10-17 13:10:50] INFO: [browsertime] BackEndTime: 119 DomInteractiveTime: 418 DomContentLoadedTime: 418 FirstPaint: 356 PageLoadTime: 568
+[2018-10-17 13:10:50] INFO: [browsertime] VisualMetrics FirstVisualChange: 367 SpeedIndex: 385 PerceptualSpeedIndex: 397 LastVisualChange: 467
+[2018-10-17 13:10:51] INFO: [browsertime] Testing url https://www.gov.uk iteration 4
+[2018-10-17 13:10:59] INFO: [browsertime] BackEndTime: 94 DomInteractiveTime: 417 DomContentLoadedTime: 417 FirstPaint: 341 PageLoadTime: 577
+[2018-10-17 13:10:59] INFO: [browsertime] VisualMetrics FirstVisualChange: 366 SpeedIndex: 383 PerceptualSpeedIndex: 396 LastVisualChange: 500
+[2018-10-17 13:10:59] INFO: [browsertime] Testing url https://www.gov.uk iteration 5
+[2018-10-17 13:11:07] INFO: [browsertime] BackEndTime: 92 DomInteractiveTime: 393 DomContentLoadedTime: 393 FirstPaint: 327 PageLoadTime: 541
+[2018-10-17 13:11:07] INFO: [browsertime] VisualMetrics FirstVisualChange: 366 SpeedIndex: 385 PerceptualSpeedIndex: 396 LastVisualChange: 466
+[2018-10-17 13:11:07] INFO: [browsertime] 29 requests, 407.04 kb, backEndTime: 104ms (±5.91ms), firstPaint: 353ms (±11.66ms), firstVisualChange: 366ms (±9.48ms), DOMContentLoaded: 431ms (±16.44ms), Load: 593ms (±24.47ms), speedIndex: 386 (±10.24), visualComplete85: 440ms (±21.85ms), lastVisualChange: 487ms (±7.34ms), rumSpeedIndex: 353 (±11.66) (5 runs)
+[2018-10-17 13:11:07] INFO: [sitespeedio.plugin.browsertime] Starting chrome for analysing https://www.gov.uk/government/history/past-prime-ministers 5 time(s)
+[2018-10-17 13:11:07] INFO: [browsertime] Testing url https://www.gov.uk/government/history/past-prime-ministers iteration 1
+[2018-10-17 13:11:16] INFO: [browsertime] BackEndTime: 97 DomInteractiveTime: 609 DomContentLoadedTime: 609 FirstPaint: 460 PageLoadTime: 753
+[2018-10-17 13:11:16] INFO: [browsertime] VisualMetrics FirstVisualChange: 467 SpeedIndex: 506 PerceptualSpeedIndex: 520 LastVisualChange: 600
+[2018-10-17 13:11:16] INFO: [browsertime] Testing url https://www.gov.uk/government/history/past-prime-ministers iteration 2
+[2018-10-17 13:11:24] INFO: [browsertime] BackEndTime: 93 DomInteractiveTime: 537 DomContentLoadedTime: 537 FirstPaint: 402 PageLoadTime: 652
+[2018-10-17 13:11:24] INFO: [browsertime] VisualMetrics FirstVisualChange: 400 SpeedIndex: 437 PerceptualSpeedIndex: 445 LastVisualChange: 533
+[2018-10-17 13:11:25] INFO: [browsertime] Testing url https://www.gov.uk/government/history/past-prime-ministers iteration 3
+[2018-10-17 13:11:34] INFO: [browsertime] BackEndTime: 121 DomInteractiveTime: 603 DomContentLoadedTime: 603 FirstPaint: 470 PageLoadTime: 763
+[2018-10-17 13:11:34] INFO: [browsertime] VisualMetrics FirstVisualChange: 467 SpeedIndex: 498 PerceptualSpeedIndex: 506 LastVisualChange: 567
+[2018-10-17 13:11:34] INFO: [browsertime] Testing url https://www.gov.uk/government/history/past-prime-ministers iteration 4
+[2018-10-17 13:11:43] INFO: [browsertime] BackEndTime: 120 DomInteractiveTime: 611 DomContentLoadedTime: 611 FirstPaint: 452 PageLoadTime: 727
+[2018-10-17 13:11:43] INFO: [browsertime] VisualMetrics FirstVisualChange: 467 SpeedIndex: 510 PerceptualSpeedIndex: 512 LastVisualChange: 600
+[2018-10-17 13:11:43] INFO: [browsertime] Testing url https://www.gov.uk/government/history/past-prime-ministers iteration 5
+[2018-10-17 13:11:53] INFO: [browsertime] BackEndTime: 102 DomInteractiveTime: 556 DomContentLoadedTime: 556 FirstPaint: 386 PageLoadTime: 668
+[2018-10-17 13:11:53] INFO: [browsertime] VisualMetrics FirstVisualChange: 367 SpeedIndex: 425 PerceptualSpeedIndex: 422 LastVisualChange: 533
+[2018-10-17 13:11:53] INFO: [browsertime] 78 requests, 932.14 kb, backEndTime: 107ms (±5.24ms), firstPaint: 434ms (±15.00ms), firstVisualChange: 434ms (±18.88ms), DOMContentLoaded: 583ms (±13.72ms), Load: 713ms (±20.04ms), speedIndex: 475 (±16.32), visualComplete85: 560ms (±11.24ms), lastVisualChange: 567ms (±13.40ms), rumSpeedIndex: 438 (±12.93) (5 runs)
+[2018-10-17 13:11:53] INFO: [sitespeedio.plugin.browsertime] Starting chrome for analysing https://www.gov.uk/apply-renew-passport 5 time(s)
+[2018-10-17 13:11:53] INFO: [browsertime] Testing url https://www.gov.uk/apply-renew-passport iteration 1
+[2018-10-17 13:12:01] INFO: [browsertime] BackEndTime: 119 DomInteractiveTime: 437 DomContentLoadedTime: 437 FirstPaint: 356 PageLoadTime: 604
+[2018-10-17 13:12:01] INFO: [browsertime] VisualMetrics FirstVisualChange: 367 SpeedIndex: 394 PerceptualSpeedIndex: 389 LastVisualChange: 467
+[2018-10-17 13:12:01] INFO: [browsertime] Testing url https://www.gov.uk/apply-renew-passport iteration 2
+[2018-10-17 13:12:10] INFO: [browsertime] BackEndTime: 94 DomInteractiveTime: 370 DomContentLoadedTime: 370 FirstPaint: 345 PageLoadTime: 539
+[2018-10-17 13:12:10] INFO: [browsertime] VisualMetrics FirstVisualChange: 333 SpeedIndex: 360 PerceptualSpeedIndex: 353 LastVisualChange: 433
+[2018-10-17 13:12:10] INFO: [browsertime] Testing url https://www.gov.uk/apply-renew-passport iteration 3
+[2018-10-17 13:12:18] INFO: [browsertime] BackEndTime: 96 DomInteractiveTime: 408 DomContentLoadedTime: 408 FirstPaint: 328 PageLoadTime: 569
+[2018-10-17 13:12:18] INFO: [browsertime] VisualMetrics FirstVisualChange: 333 SpeedIndex: 369 PerceptualSpeedIndex: 362 LastVisualChange: 433
+[2018-10-17 13:12:19] INFO: [browsertime] Testing url https://www.gov.uk/apply-renew-passport iteration 4
+[2018-10-17 13:12:28] INFO: [browsertime] BackEndTime: 96 DomInteractiveTime: 402 DomContentLoadedTime: 402 FirstPaint: 334 PageLoadTime: 566
+[2018-10-17 13:12:28] INFO: [browsertime] VisualMetrics FirstVisualChange: 333 SpeedIndex: 363 PerceptualSpeedIndex: 356 LastVisualChange: 433
+[2018-10-17 13:12:28] INFO: [browsertime] Testing url https://www.gov.uk/apply-renew-passport iteration 5
+[2018-10-17 13:12:36] INFO: [browsertime] BackEndTime: 126 DomInteractiveTime: 446 DomContentLoadedTime: 446 FirstPaint: 372 PageLoadTime: 610
+[2018-10-17 13:12:36] INFO: [browsertime] VisualMetrics FirstVisualChange: 367 SpeedIndex: 404 PerceptualSpeedIndex: 396 LastVisualChange: 467
+[2018-10-17 13:12:37] INFO: [browsertime] 28 requests, 295.81 kb, backEndTime: 106ms (±6.04ms), firstPaint: 347ms (±7.04ms), firstVisualChange: 347ms (±7.45ms), DOMContentLoaded: 413ms (±12.10ms), Load: 578ms (±11.74ms), speedIndex: 378 (±7.90), visualComplete85: 426ms (±5.90ms), lastVisualChange: 447ms (±7.45ms), rumSpeedIndex: 347 (±7.04) (5 runs)
+[2018-10-17 13:12:37] INFO: [sitespeedio.plugin.browsertime] Starting chrome for analysing https://www.gov.uk/government/speeches/spring-statement-2018-philip-hammonds-speech 5 time(s)
+[2018-10-17 13:12:37] INFO: [browsertime] Testing url https://www.gov.uk/government/speeches/spring-statement-2018-philip-hammonds-speech iteration 1
+[2018-10-17 13:12:47] INFO: [browsertime] BackEndTime: 93 DomInteractiveTime: 415 DomContentLoadedTime: 415 FirstPaint: 335 PageLoadTime: 551
+[2018-10-17 13:12:47] INFO: [browsertime] VisualMetrics FirstVisualChange: 333 SpeedIndex: 366 PerceptualSpeedIndex: 364 LastVisualChange: 467
+[2018-10-17 13:12:47] INFO: [browsertime] Testing url https://www.gov.uk/government/speeches/spring-statement-2018-philip-hammonds-speech iteration 2
+[2018-10-17 13:12:56] INFO: [browsertime] BackEndTime: 121 DomInteractiveTime: 473 DomContentLoadedTime: 473 FirstPaint: 378 PageLoadTime: 615
+[2018-10-17 13:12:56] INFO: [browsertime] VisualMetrics FirstVisualChange: 367 SpeedIndex: 404 PerceptualSpeedIndex: 404 LastVisualChange: 500
+[2018-10-17 13:12:56] INFO: [browsertime] Testing url https://www.gov.uk/government/speeches/spring-statement-2018-philip-hammonds-speech iteration 3
+[2018-10-17 13:13:05] INFO: [browsertime] BackEndTime: 95 DomInteractiveTime: 417 DomContentLoadedTime: 417 FirstPaint: 335 PageLoadTime: 562
+[2018-10-17 13:13:05] INFO: [browsertime] VisualMetrics FirstVisualChange: 333 SpeedIndex: 361 PerceptualSpeedIndex: 360 LastVisualChange: 467
+[2018-10-17 13:13:05] INFO: [browsertime] Testing url https://www.gov.uk/government/speeches/spring-statement-2018-philip-hammonds-speech iteration 4
+[2018-10-17 13:13:15] INFO: [browsertime] BackEndTime: 103 DomInteractiveTime: 414 DomContentLoadedTime: 414 FirstPaint: 359 PageLoadTime: 579
+[2018-10-17 13:13:15] INFO: [browsertime] VisualMetrics FirstVisualChange: 333 SpeedIndex: 377 PerceptualSpeedIndex: 370 LastVisualChange: 467
+[2018-10-17 13:13:16] INFO: [browsertime] Testing url https://www.gov.uk/government/speeches/spring-statement-2018-philip-hammonds-speech iteration 5
+[2018-10-17 13:13:24] INFO: [browsertime] BackEndTime: 93 DomInteractiveTime: 424 DomContentLoadedTime: 424 FirstPaint: 351 PageLoadTime: 561
+[2018-10-17 13:13:24] INFO: [browsertime] VisualMetrics FirstVisualChange: 333 SpeedIndex: 367 PerceptualSpeedIndex: 366 LastVisualChange: 467
+[2018-10-17 13:13:24] INFO: [browsertime] 26 requests, 610.64 kb, backEndTime: 101ms (±4.77ms), firstPaint: 352ms (±7.22ms), firstVisualChange: 340ms (±6.08ms), DOMContentLoaded: 429ms (±10.05ms), Load: 574ms (±10.09ms), speedIndex: 375 (±6.89), visualComplete85: 460ms (±11.24ms), lastVisualChange: 474ms (±5.90ms), rumSpeedIndex: 352 (±7.22) (5 runs)
+[2018-10-17 13:13:24] INFO: [sitespeedio.plugin.browsertime] Starting chrome for analysing https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street 5 time(s)
+[2018-10-17 13:13:24] INFO: [browsertime] Testing url https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street iteration 1
+[2018-10-17 13:13:33] INFO: [browsertime] BackEndTime: 93 DomInteractiveTime: 370 DomContentLoadedTime: 370 FirstPaint: 307 PageLoadTime: 750
+[2018-10-17 13:13:33] INFO: [browsertime] VisualMetrics FirstVisualChange: 300 SpeedIndex: 407 PerceptualSpeedIndex: 380 LastVisualChange: 633
+[2018-10-17 13:13:34] INFO: [browsertime] Testing url https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street iteration 2
+[2018-10-17 13:13:42] INFO: [browsertime] BackEndTime: 121 DomInteractiveTime: 388 DomContentLoadedTime: 388 FirstPaint: 305 PageLoadTime: 719
+[2018-10-17 13:13:42] INFO: [browsertime] VisualMetrics FirstVisualChange: 300 SpeedIndex: 395 PerceptualSpeedIndex: 374 LastVisualChange: 533
+[2018-10-17 13:13:43] INFO: [browsertime] Testing url https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street iteration 3
+[2018-10-17 13:13:51] INFO: [browsertime] BackEndTime: 95 DomInteractiveTime: 416 DomContentLoadedTime: 416 FirstPaint: 352 PageLoadTime: 714
+[2018-10-17 13:13:51] INFO: [browsertime] VisualMetrics FirstVisualChange: 367 SpeedIndex: 440 PerceptualSpeedIndex: 426 LastVisualChange: 567
+[2018-10-17 13:13:52] INFO: [browsertime] Testing url https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street iteration 4
+[2018-10-17 13:14:01] INFO: [browsertime] BackEndTime: 96 DomInteractiveTime: 445 DomContentLoadedTime: 445 FirstPaint: 304 PageLoadTime: 752
+[2018-10-17 13:14:01] INFO: [browsertime] VisualMetrics FirstVisualChange: 300 SpeedIndex: 406 PerceptualSpeedIndex: 364 LastVisualChange: 467
+[2018-10-17 13:14:01] INFO: [browsertime] Testing url https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street iteration 5
+[2018-10-17 13:14:12] INFO: [browsertime] BackEndTime: 120 DomInteractiveTime: 395 DomContentLoadedTime: 395 FirstPaint: 313 PageLoadTime: 764
+[2018-10-17 13:14:12] INFO: [browsertime] VisualMetrics FirstVisualChange: 300 SpeedIndex: 381 PerceptualSpeedIndex: 346 LastVisualChange: 433
+[2018-10-17 13:14:12] INFO: [browsertime] 39 requests, 1938.25 kb, backEndTime: 105ms (±5.68ms), firstPaint: 316ms (±8.13ms), firstVisualChange: 313ms (±11.99ms), DOMContentLoaded: 403ms (±11.51ms), Load: 740ms (±8.80ms), speedIndex: 406 (±8.72), visualComplete85: 500ms (±21.12ms), lastVisualChange: 527ms (±31.82ms), rumSpeedIndex: 388 (±7.80) (5 runs)
+[2018-10-17 13:14:14] INFO: [sitespeedio.plugin.html] HTML stored in /sitespeed.io/sitespeed-result/www.gov.uk/2018-10-17-13-10-23
+[2018-10-17 13:14:14] INFO: [sitespeedio] Finished analysing https://www.gov.uk
