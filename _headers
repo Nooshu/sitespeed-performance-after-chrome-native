@@ -2,7 +2,8 @@
 	X-Content-Type-Options: nosniff
 	x-frame-options: SAMEORIGIN
 	X-XSS-Protection: 1; mode=block
-	Referrer-Policy: no-referrer	
+	Referrer-Policy: no-referrer
+	Access-Control-Allow-Origin: https://compare.sitespeed.io
 
 /img/*
         Cache-Control: public, max-age=360000
